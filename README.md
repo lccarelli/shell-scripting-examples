@@ -13,29 +13,31 @@ This repository contains a collection of shell script examples to demonstrate be
 The repository is organized into several directories, each containing scripts related to a specific level of complexity or a particular use case:
 
 - **basic-examples**: Contains scripts that demonstrate basic shell scripting concepts and operations. Perfect for beginners who are just getting started.
-  - `hello-world.sh`: A simple script that prints "Hello, World!" to the console.
-  - `variables.sh`: Shows how to use variables in a shell script.
-  - `loops.sh`: Demonstrates the use of loops.
+  - `hello-world.sh`: A simple script that prints "Hello, World!" to the console. [done]
+  - `loops.sh`: Demonstrates the use of loops. [todo]
+  - `variables.sh`: Shows how to use variables in a shell script. [todo]
 
 - **intermediate-examples**: For those who are familiar with the basics and want to delve deeper.
-  - `text-processing.sh`: Scripts for manipulating text.
-  - `file-operations.sh`: How to perform operations on files.
-  - `networking.sh`: Scripts that involve networking operations.
+  - `arithmetic-calculate.sh`: How to perfom basic arithmetic operation. [done]
+  - `arithmetic-calculate-test.sh`: Test `arithmetic-calculate.sh`. [done]
+  - `file-operations.sh`: How to perform operations on files. [todo]
+  - `networking.sh`: Scripts that involve networking operations. [todo]
+  - `text-processing.sh`: Scripts for manipulating text. [todo]
 
 - **advanced-examples**: Advanced scripts and techniques for experienced users.
-  - `script-template.sh`: A template for creating well-structured scripts.
-  - `system-monitoring.sh`: Scripts for monitoring system resources.
-  - `automation.sh`: Examples of automation scripts.
+  - `automation.sh`: Examples of automation scripts. [todo]
+  - `script-template.sh`: A template for creating well-structured scripts. [todo]
+  - `system-monitoring.sh`: Scripts for monitoring system resources. [todo]
 
 - **utils**: Common utilities and functions that can be used by other scripts.
-  - `logger.sh`: A logging utility.
-  - `array-utils.sh`: Utilities for array operations.
-
-- **tests**: Scripts for testing your shell scripts.
-  - `test-script.sh`: An example test script.
+  - `array-utils-test.sh`: Test array utility. [done]
+  - `array-utils.sh`: Utilities for array operations. [done]
+  - `logger-test.sh`: Test logging utility. [done]
+  - `logger.sh`: A logging utility. [done]
+  - `usage-example.sh`: A practical demonstration of how to utilize the functions and utilities provided in the `logger.sh` and `array-utils.sh`. [done]
 
 - **docs**: Additional documentation.
-  - `how-to-use.md`: Instructions on how to use the scripts.
+  - `how-to-use.md`: Instructions on how to use the scripts. [todo]
 
 ## Getting Started
 
